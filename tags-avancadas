@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Página avançada - Otávio Matos</title>
+    </head>
+    <body>
+        <h1>Exemplos de HTML Avançados</hi>
+            <p>
+                Aqui estão alguns exemplos de uso de <strong>tags avançadas</strong> em HTML.
+            </p>
+
+            <h2>1. Tabelas</h2>
+            <p>
+                Uma tabela com <code>&lt;table&lt;</code>, <code>&lt;tr&gt;</code>, <code>&lt;th&gt;</code> e <code>&lt;&gt;</code>:
+            </p>
+
+            <table border="1" cellpadding="5" cellspacing="0">
+                <tr>
+                    <th>Tag</th>
+                    <th>Descrição</th>
+                    <th>Exemplos</th>
+                </tr>
+                <tr>
+                    <td>&lt;table&gt;</td>
+                    <td>Cria uma tabela</td>
+                    <td>Toda a estrutura abaixo</td>
+                </tr>
+                <tr>
+                    <td>&lt;tr&gt;</td>
+                    <td>Linha da tabela</td>
+                    <td>Essa linha</td>
+                </tr>
+                <tr>
+                    <td>&lt;td&gt;</td>
+                    <td>Coluna de dados</td>
+                    <td>Esse texto</td>
+                </tr>
+                <tr>
+                    <td>&lt;td&gt;</td>
+                    <td>Cabeçalho</td>
+                    <td>Texto em negrito acima</td>
+                </tr>
+                <tr>
+                    <td colspan="3">
+                        Exemplo de uso de <code>colspan</code> (mescla 3 colunas)
+                    </td>
